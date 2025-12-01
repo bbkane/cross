@@ -16,7 +16,7 @@ cargo build & cargo run
 ```
 
 ### Web
-Run in browser with trunk:  
+Run in browser with [trunk](https://trunkrs.dev/):  
 ```
 trunk serve 
 ```
